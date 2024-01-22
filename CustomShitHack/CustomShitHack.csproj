@@ -7,8 +7,8 @@
     <ProjectGuid>{8FA11E5D-BF8F-425F-B5BB-D90C92EB3673}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DuckGame.CustomShitHack</RootNamespace>
-    <AssemblyName>CustomShitHack</AssemblyName>
+    <RootNamespace>DuckGame.CustomStuffHack</RootNamespace>
+    <AssemblyName>CustomStuffHack</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -6,12 +6,12 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Harmony;
-using DuckGame.CustomShitHack.Images;
+using DuckGame.CustomStuffHack.Images;
 using System.IO;
-using DuckGame.CustomShitHack.Hacking;
-using DuckGame.CustomShitHack.ExtendedHats;
+using DuckGame.CustomStuffHack.Hacking;
+using DuckGame.CustomStuffHack.ExtendedHats;
 
-namespace DuckGame.CustomShitHack.Harmony
+namespace DuckGame.CustomStuffHack.Harmony
 {
     internal class HarmonyPatches
     {

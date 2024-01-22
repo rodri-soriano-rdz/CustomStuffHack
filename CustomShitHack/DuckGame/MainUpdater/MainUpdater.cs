@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 using System.Windows.Forms;
-using DuckGame.CustomShitHack.ModInput;
+using DuckGame.CustomStuffHack.ModInput;
 
-namespace DuckGame.CustomShitHack
+namespace DuckGame.CustomStuffHack
 {
     internal class MainUpdater : IEngineUpdatable
     {

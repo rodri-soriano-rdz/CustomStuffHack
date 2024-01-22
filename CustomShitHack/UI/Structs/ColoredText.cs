@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.UI
+namespace DuckGame.CustomStuffHack.UI
 {
     internal struct ColoredText
     {

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 using Harmony;
 using HarmonyLoader;
 
-namespace DuckGame.CustomShitHack.Harmony
+namespace DuckGame.CustomStuffHack.Harmony
 {
     /// <summary>
     /// Tool for performing patches using harmony.

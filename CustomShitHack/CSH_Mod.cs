@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.Utility;
-using DuckGame.CustomShitHack.Harmony;
-using DuckGame.CustomShitHack.Images;
+using DuckGame.CustomStuffHack.Utility;
+using DuckGame.CustomStuffHack.Harmony;
+using DuckGame.CustomStuffHack.Images;
 using System.Reflection;
-using DuckGame.CustomShitHack.ModInput;
-using DuckGame.CustomShitHack.UI;
-using DuckGame.CustomShitHack.Hacking;
-using DuckGame.CustomShitHack.ExtendedHats;
+using DuckGame.CustomStuffHack.ModInput;
+using DuckGame.CustomStuffHack.UI;
+using DuckGame.CustomStuffHack.Hacking;
+using DuckGame.CustomStuffHack.ExtendedHats;
 
-namespace DuckGame.CustomShitHack
+namespace DuckGame.CustomStuffHack
 {
     /// <summary>
     /// Main mod class.

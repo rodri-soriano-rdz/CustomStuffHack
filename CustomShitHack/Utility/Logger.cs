@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack;
+using DuckGame.CustomStuffHack;
 
-namespace DuckGame.CustomShitHack.Utility
+namespace DuckGame.CustomStuffHack.Utility
 {
     /// <summary>
     /// Severity of a log message.

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 
-namespace DuckGame.CustomShitHack.Images
+namespace DuckGame.CustomStuffHack.Images
 {
     /// <summary>
     /// Manages BaseImages.

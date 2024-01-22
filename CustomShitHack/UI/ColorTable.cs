@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.UI
+namespace DuckGame.CustomStuffHack.UI
 {
     internal static class ColorTable
     {

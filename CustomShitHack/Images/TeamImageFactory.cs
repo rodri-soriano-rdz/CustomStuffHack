@@ -7,11 +7,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Collections;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 using System.Xml.Linq;
 using Harmony;
 
-namespace DuckGame.CustomShitHack.Images
+namespace DuckGame.CustomStuffHack.Images
 {
     internal static class TeamImageFactory
     {

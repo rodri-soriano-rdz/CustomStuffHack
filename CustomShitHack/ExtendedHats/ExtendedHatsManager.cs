@@ -1,11 +1,11 @@
-﻿using DuckGame.CustomShitHack.Images;
+﻿using DuckGame.CustomStuffHack.Images;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.ExtendedHats
+namespace DuckGame.CustomStuffHack.ExtendedHats
 {
     internal static class ExtendedHatsManager
     {

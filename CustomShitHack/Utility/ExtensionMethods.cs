@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System;
 using System.Windows;
-using DuckGame.CustomShitHack.Images;
+using DuckGame.CustomStuffHack.Images;
 
-namespace DuckGame.CustomShitHack.Utility
+namespace DuckGame.CustomStuffHack.Utility
 {
     internal static class ExtensionMethods
     {

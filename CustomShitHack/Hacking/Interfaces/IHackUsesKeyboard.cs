@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.ModInput;
+using DuckGame.CustomStuffHack.ModInput;
 
-namespace DuckGame.CustomShitHack.Hacking
+namespace DuckGame.CustomStuffHack.Hacking
 {
     internal interface IHackUsesKeyboard : IHack
     {

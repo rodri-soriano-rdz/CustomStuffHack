@@ -1,5 +1,5 @@
-﻿using DuckGame.CustomShitHack.Hacking;
-using DuckGame.CustomShitHack.ModInput;
+﻿using DuckGame.CustomStuffHack.Hacking;
+using DuckGame.CustomStuffHack.ModInput;
 using Harmony;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.Hacking
+namespace DuckGame.CustomStuffHack.Hacking
 {
     internal class HCameraManipulator : IHack, IHackUsesMouse
     {

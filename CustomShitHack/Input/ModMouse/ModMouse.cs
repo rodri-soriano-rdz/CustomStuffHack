@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DuckGame.CustomShitHack.Utility;
-using DuckGame.CustomShitHack.UI;
+using DuckGame.CustomStuffHack.Utility;
+using DuckGame.CustomStuffHack.UI;
 
-namespace DuckGame.CustomShitHack.ModInput
+namespace DuckGame.CustomStuffHack.ModInput
 {
     internal static class ModMouse
     {

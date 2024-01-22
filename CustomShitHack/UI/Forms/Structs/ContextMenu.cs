@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DuckGame.CustomShitHack.UI
+namespace DuckGame.CustomStuffHack.UI
 {
     /// <summary>
     /// Represents a context menu.

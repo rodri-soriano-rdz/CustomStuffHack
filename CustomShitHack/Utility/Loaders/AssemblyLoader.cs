@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace DuckGame.CustomShitHack.Utility
+namespace DuckGame.CustomStuffHack.Utility
 {
     internal static class AssemblyLoader
     {

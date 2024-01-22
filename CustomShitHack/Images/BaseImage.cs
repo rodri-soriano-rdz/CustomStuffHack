@@ -10,10 +10,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Xml.Linq;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 using Harmony;
 
-namespace DuckGame.CustomShitHack.Images
+namespace DuckGame.CustomStuffHack.Images
 {
     internal class BaseImage
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack
+namespace DuckGame.CustomStuffHack
 {
     /// <summary>
     /// Tool methods for transforming positions from one layer or camera to another.

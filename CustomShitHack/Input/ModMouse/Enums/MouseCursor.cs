@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.ModInput
+namespace DuckGame.CustomStuffHack.ModInput
 {
     internal enum MouseCursor
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.Utility
+namespace DuckGame.CustomStuffHack.Utility
 {
     internal static class GameTime
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Harmony;
 
-namespace DuckGame.CustomShitHack.Utility
+namespace DuckGame.CustomStuffHack.Utility
 {
     internal static class EmoteLoader
     {

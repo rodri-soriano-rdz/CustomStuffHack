@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.Images
+namespace DuckGame.CustomStuffHack.Images
 {
     internal readonly struct TileTeam
     {

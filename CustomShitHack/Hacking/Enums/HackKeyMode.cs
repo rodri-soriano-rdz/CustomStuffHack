@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DuckGame.CustomShitHack.Hacking
+namespace DuckGame.CustomStuffHack.Hacking
 {
     internal enum HackKeyMode
     {

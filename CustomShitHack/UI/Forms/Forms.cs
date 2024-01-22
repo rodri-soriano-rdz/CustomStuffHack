@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using DuckGame.CustomShitHack.Utility;
+using DuckGame.CustomStuffHack.Utility;
 using Label = System.Windows.Forms.Label;
 using TextBox = System.Windows.Forms.TextBox;
 using Button = System.Windows.Forms.Button;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
-namespace DuckGame.CustomShitHack.UI
+namespace DuckGame.CustomStuffHack.UI
 {
     /// <summary>
     /// Provides utility methods for managing forms and user interface elements.

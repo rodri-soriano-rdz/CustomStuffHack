@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DuckGame;
 
-namespace DuckGame.CustomShitHack.UI
+namespace DuckGame.CustomStuffHack.UI
 {
     internal static class DepthTable
     {
